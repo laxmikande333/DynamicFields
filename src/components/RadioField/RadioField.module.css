@@ -1,0 +1,13 @@
+/* components/RadioField.module.css */
+.radioGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+.radioOption {
+    margin-bottom: 10px;
+}
+
+.radioLabel {
+    margin-left: 5px;
+}
