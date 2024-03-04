@@ -17,7 +17,6 @@ git clone <repository-url>
 
 
 2. Navigate to the project directory:
-cd assignment
 
 3. Install the dependencies:
 npm install
